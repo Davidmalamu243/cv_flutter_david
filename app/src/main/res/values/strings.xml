@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">CV David</string>
+
+    <!-- Navigation & General -->
+    <string name="nav_cv">Mon CV</string>
+    <string name="nav_family">Famille</string>
+    <string name="nav_contact">Contact</string>
+    <string name="action_logout">Déconnexion</string>
+    <string name="action_menu">Menu</string>
+    <string name="action_share_cv">Partager le profil</string>
+
+    <!-- Login Screen -->
+    <string name="login_badge">Portfolio &amp; CV Professionnel</string>
+    <string name="login_title">Ciza Elmalamu David</string>
+    <string name="login_subtitle">Connectez-vous pour consulter mon parcours académique, mes réalisations, ma famille et mes coordonnées.</string>
+    <string name="login_identifier_label">Identifiant</string>
+    <string name="login_identifier_placeholder">ex: david.ciza</string>
+    <string name="login_password_label">Mot de passe</string>
+    <string name="login_password_placeholder">Entrez votre mot de passe</string>
+    <string name="login_button">Se connecter</string>
+    <string name="login_demo_fill">Remplir l\'accès démo</string>
+    <string name="login_error_empty_id">Veuillez saisir un identifiant.</string>
+    <string name="login_error_empty_password">Veuillez saisir votre mot de passe (min. 4 caractères).</string>
+    <string name="login_toggle_password">Afficher ou masquer le mot de passe</string>
+
+    <!-- CV Screen -->
+    <string name="cv_section_profile">Profil &amp; Objectifs</string>
+    <string name="cv_section_experience">Expériences Professionnelles</string>
+    <string name="cv_section_education">Formation Académique</string>
+    <string name="cv_section_skills">Compétences Techniques</string>
+    <string name="cv_section_languages">Langues</string>
+    <string name="cv_section_interests">Centres d\'intérêt</string>
+
+    <!-- Family Screen -->
+    <string name="family_title">Ma Famille</string>
+    <string name="family_subtitle">Les membres de ma famille et les piliers qui accompagnent mon parcours entre Goma et Bukavu.</string>
+    <string name="family_view_list">Liste</string>
+    <string name="family_view_grid">Grille</string>
+
+    <!-- Contact Screen -->
+    <string name="contact_title">Coordonnées</string>
+    <string name="contact_subtitle">Disponible pour des missions en électricité, réseaux, sécurité CCTV, partenariats éducatifs et production musicale.</string>
+    <string name="contact_copy">Copier</string>
+    <string name="contact_copied">Copié dans le presse-papiers</string>
+    <string name="contact_no_app">Aucune application compatible trouvée.</string>
+</resources>
